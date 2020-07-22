@@ -1,0 +1,20 @@
+charset "iso-8859-1";
+
+body {margin:0px; font-family: Verdana, Arial, Helvetica}
+td {font-size: 12px}
+th {color: #ffffff; font-family: Verdana, Arial, Helvetica; text-align: left}
+p {font-size: 12px; font-family: Verdana, Arial, Helvetica}
+select {font-size: 12px; font-family: Verdana, Arial, Helvetica}
+
+body.main {background-color: #ffffff; margin:10px;}
+table.container {background-color: #ffffff; width:100%;}
+table.container td {font-family: Verdana, Arial, Helvetica; color: #222222;}
+table.dialog {font-family: Arial, Helvetica, Verdana; border: 1px solid #D6DDE6; margin-top: 15px; margin-bottom: 15px;}
+table.dialog table.header {background:url(red-light-hd.gif) repeat scroll 0 0 rgba(0,0,0,0); height:25px; width:100%; font-weight:bold; text-align:center;}
+table.dialog table.header td {font-size: 13px; color:#ffffff; font-weight:bold; text-align:center;}
+table.dialog table.body {width:100%; color:#222222;}
+table.body td {font-size: 12px; padding: 1px 1px;}
+table.dialog td.body {font-size: 12px; padding: 1px 10px;}
+table.container table.list {border: 1px solid #D6DDE6; border-collapse: collapse; font-family: Verdana, Arial, Helvetica; font-size: 12px; margin:5px;}
+table.list td {font-size: 11px; color: #222222; border: 1px solid #D6DDE6;font-family: Verdana, Arial, Helvetica; text-align: center; padding-bottom: 0px; padding-left: 2px; padding-right: 2px; padding-top: 0px; vertical-align: middle;}
+table.list th {border: 1px solid #D6DDE6;background:url(red-top-bottom.gif) repeat-x 0 bottom;cursor:default;zoom:1;padding:1px 0,0,0;color:#ffffff;text-align:center;height:20px;}
